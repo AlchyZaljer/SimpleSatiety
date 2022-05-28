@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="50mm"
+   height="50mm"
+   viewBox="0 0 50 50"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="all.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:object-paths="false"
+     inkscape:zoom="2.5585297"
+     inkscape:cx="92.240476"
+     inkscape:cy="115.88687"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid870" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round"
+       id="rect1063"
+       width="5.2916665"
+       height="21.166666"
+       x="100.54167"
+       y="185.20833"
+       rx="5.2916665"
+       ry="2.6458333" />
+    <g
+       id="g5490"
+       transform="matrix(0.24301316,0,0,0.24856254,0.74538663,1.916434)">
+      <g
+         id="g1984">
+        <rect
+           style="fill:#ff8080;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round"
+           id="rect872"
+           width="105.83334"
+           height="148.16666"
+           x="26.458334"
+           y="21.166666"
+           ry="5.2916665" />
+        <rect
+           style="fill:#ffaaaa;stroke-width:0.655369;stroke-linecap:round;stroke-linejoin:round"
+           id="rect872-6"
+           width="92.76812"
+           height="148.16666"
+           x="44.815212"
+           y="21.166666"
+           ry="5.2916665" />
+        <rect
+           style="fill:#ffffff;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round"
+           id="rect1056"
+           width="111.125"
+           height="10.583344"
+           x="26.987501"
+           y="159.27914"
+           ry="2.6458333"
+           rx="5.2916665" />
+        <path
+           style="fill:#ffdd55;stroke:none;stroke-width:0.21807px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 135.99583,34.924999 h 33.73248 l -9.63786,7.894614 9.63786,7.894615 H 135.99583 V 34.924999"
+           id="path1667" />
+        <path
+           style="fill:#aaeeff;stroke:none;stroke-width:0.21807px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 135.99583,54.488216 h 33.73248 l -9.63786,7.89461 9.63786,7.89462 h -33.73248 v -15.78923"
+           id="path1667-3" />
+      </g>
+      <g
+         id="g4222"
+         transform="translate(-2.6458333,-18.520837)">
+        <path
+           style="fill:#ffffff;stroke:none;stroke-width:0.249452px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 71.4375,142.875 v -26.45833 h 42.33333 V 142.875 H 71.4375"
+           id="path2019" />
+        <ellipse
+           style="fill:#ffffff;stroke:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round"
+           id="path4054"
+           cx="77.352356"
+           cy="103.82591"
+           rx="15.925488"
+           ry="14.27089" />
+        <ellipse
+           style="fill:#ffffff;stroke:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round"
+           id="path4054-4"
+           cx="93.07103"
+           cy="89.337105"
+           rx="15.925488"
+           ry="14.27089" />
+        <ellipse
+           style="fill:#ffffff;stroke:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round"
+           id="path4054-4-0"
+           cx="94.518799"
+           cy="113.57845"
+           rx="15.925488"
+           ry="14.27089" />
+        <ellipse
+           style="fill:#ffffff;stroke:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round"
+           id="path4054-8"
+           cx="110.03065"
+           cy="103.52776"
+           rx="15.925488"
+           ry="14.27089" />
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="50mm"
+   height="50mm"
+   viewBox="0 0 50 50"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="menu.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.5620932"
+     inkscape:cx="152.21929"
+     inkscape:cy="202.37359"
+     inkscape:window-width="2560"
+     inkscape:window-height="1351"
+     inkscape:window-x="1911"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#e1ee81;fill-opacity:1;stroke:none;stroke-width:0.793725;stroke-linecap:round;stroke-linejoin:round"
+       id="rect846"
+       width="36.350487"
+       height="5.5764952"
+       x="6.8247566"
+       y="9.7763309"
+       ry="2.7882476" />
+    <rect
+       style="fill:#e1ee81;fill-opacity:1;stroke:none;stroke-width:0.793725;stroke-linecap:round;stroke-linejoin:round"
+       id="rect846-4"
+       width="36.350487"
+       height="5.5764952"
+       x="6.8247566"
+       y="22.21175"
+       ry="2.7882476" />
+    <rect
+       style="fill:#e1ee81;fill-opacity:1;stroke:none;stroke-width:0.793725;stroke-linecap:round;stroke-linejoin:round"
+       id="rect846-9"
+       width="36.350487"
+       height="5.5764952"
+       x="6.8247566"
+       y="34.647175"
+       ry="2.7882476" />
+  </g>
+</svg>

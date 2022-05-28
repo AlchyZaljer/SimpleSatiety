@@ -1,0 +1,754 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;700&family=Rubik:wght@300;400;500;700&display=swap');
+
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    font-family: 'Rubik', sans-serif;
+    color: black;
+    background-color: #fac59b;
+}
+
+/* index */
+.mainTitle {
+    font-family: 'Comfortaa', cursive;
+    text-align: center;
+    font-size: 65px;
+    font-weight: bold;
+    padding: 40px 0 60px;
+}
+
+.prevTable,
+.infoTable {
+    width: 75%;
+    margin: auto;
+}
+
+.prevTable td,
+.infoTable td {
+    width: 45%;
+}
+
+.prevLogo img,
+.infoIcon img {
+    margin: auto;
+    display: block;
+    max-width: 400px;
+}
+
+.prevText,
+.infoIext {
+    margin: auto;
+    padding-left: 10%;
+    width: 100%;
+    vertical-align: middle;
+    font-size: 25px;
+    line-height: 28px;
+}
+
+.prevText p {
+    margin-bottom: 15px;
+    max-width: 80%;
+}
+
+.prevText p:last-child {
+    margin-bottom: 0;
+}
+
+.prevBtn {
+    margin: 80px auto;
+    text-align: center;
+}
+
+.prevBtn a {
+    border-radius: 20px;
+    text-decoration: none;
+    background-color: #E1EE81;
+    color: black;
+    padding: 1.5%;
+    font-size: 30px;
+}
+
+.prevBtn a:hover,
+#searchBtn:hover {
+    background-color: #A7C81C;
+}
+
+.prevBtn a:active,
+.constrBtn a:active {
+    opacity: 0.3;
+}
+
+/* меню */
+.menu {
+    background-color: #A7C81C;
+    padding: 35px 0;
+}
+
+.menu nav>ul {
+    width: 100%;
+    display: table;
+    table-layout: fixed;
+}
+
+.menu nav>ul>li {
+    display: table-cell;
+    list-style: none;
+    vertical-align: middle;
+    font-size: 25px;
+    font-weight: lighter;
+    text-transform: uppercase;
+}
+
+.menuLogo {
+    font-family: 'Comfortaa', cursive;
+    font-weight: normal;
+    text-transform: none;
+    width: 70%;
+    padding: 0 60px 0 30px;
+    font-size: 20px;
+}
+
+.menu a {
+    text-decoration: none;
+    color: black;
+}
+
+.menu a:hover,
+.recipeLink:hover {
+    color: #E1EE81;
+}
+
+.linkActive {
+    color: #E1EE81 !important;
+}
+
+/* constructor */
+.constrForm {
+    background-color: #DDDDDD;
+    padding: 25px 0;
+}
+
+.constrForm table {
+    margin: auto;
+    font-size: 22px;
+}
+
+.labelTitle {
+    width: 70%;
+    font-weight: 500;
+    padding-bottom: 20px;
+}
+
+.field {
+    display: table;
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+.field label {
+    font-style: italic;
+    display: table-row;
+    line-height: 30px;
+}
+
+.alternativeTitle {
+    text-align: center;
+    font-size: 28px;
+}
+
+.constrBtn {
+    text-align: center;
+    margin: 30px auto;
+}
+
+.constrBtn a {
+    border-radius: 20px;
+    text-decoration: none;
+    background-color: #E1EE81;
+    color: black;
+    padding: 1% 2%;
+    font-size: 26px;
+}
+
+#showAllBtn {
+    background-color: #fac59b;
+}
+
+#showAllBtn:hover {
+    background-color: #fd9686;
+}
+
+.constrInstruction {
+    margin: 0 auto;
+    padding: 25px 25%;
+    font-size: 25px;
+    line-height: 32px;
+}
+
+.alert strong {
+    font-weight: bold;
+}
+
+/* search */
+.search {
+    display: flex;
+}
+
+.searchTags {
+    width: 30%;
+    background-color: #DDDDDD;
+}
+
+.tagsImg img {
+    width: 120px;
+    display: block;
+    margin: 0 auto;
+}
+
+.searchList {
+    width: 70%;
+}
+
+.listWrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.searchAlert {
+    width: 70%;
+    margin: 0 auto;
+    font-size: 33px;
+    padding: 25px 0;
+}
+
+.listTable {
+    padding-bottom: 25px;
+}
+
+.recipeName {
+    font-size: 25px;
+    list-style: none;
+    text-indent: -1.5em;
+    padding-bottom: 10px;
+}
+
+.recipeName::before {
+    content: '\25ba';
+    color: #A7C81C;
+    padding-right: 12px;
+}
+
+.recipeLink {
+    text-transform: lowercase;
+    font-style: italic;
+    color: #DDDDDD;
+    font-size: 20px;
+}
+
+/* recipe */
+.recipeTitle {
+    text-transform: uppercase;
+    padding: 4px 0;
+}
+
+.recipeWrapper {
+    margin: 0 auto;
+}
+
+.ingrTitle,
+.actTitle {
+    text-align: center;
+    text-decoration: underline;
+    font-size: 28px;
+}
+
+.ingrTable,
+.actTable {
+    width: 30%;
+    margin: 20px auto;
+    font-size: 24px;
+}
+
+.actTable {
+    width: 40%;
+}
+
+.ingrTable tr,
+.actTable tr {
+    display: block;
+    padding-bottom: 10px;
+}
+
+.ingrNum,
+.actNum {
+    padding-right: 15px;
+}
+
+.ingrName {
+    width: 60%;
+}
+
+.ingrName:first-letter {
+    text-transform: uppercase;
+}
+
+.ingrAmount {
+    width: 40%;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+.actDescription {
+    text-align: justify;
+}
+
+/* information */
+.infoTable {
+    margin-top: 50px;
+}
+
+/* универсальное */
+.unseen {
+    display: none !important;
+}
+
+.title {
+    text-align: center;
+    font-size: 33px;
+    padding: 25px 0;
+}
+
+.constructor,
+.search,
+.recipe,
+.info {
+    min-height: calc(100vh - 95px - 80px);
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+}
+
+.content {
+    flex: 1 0 auto;
+    background-color: white;
+}
+
+/* footer */
+footer {
+    flex: 0 0 auto;
+    height: 30px;
+    background-color: #fac59b;
+    padding: 25px 0;
+}
+
+.copyright {
+    float: right;
+    padding-right: 25px;
+    font-size: 20px;
+}
+
+.social {
+    float: left;
+    font-size: 0;
+}
+
+.socialBtn {
+    display: inline-block;
+    margin-left: 25px;
+    vertical-align: middle;
+    width: 30px;
+    height: 30px;
+    background-repeat: no-repeat;
+}
+
+.socialBtnVk {
+    background-image: url("../img/vk.svg");
+}
+
+.socialBtnFb {
+    background-image: url("../img/facebook.svg");
+}
+
+.socialBtnIg {
+    background-image: url("../img/instagram.svg");
+}
+
+@media (max-width: 1000px) {
+
+    /* index */
+    .mainTitle {
+        font-size: 90px;
+        padding: 70px 0 90px;
+    }
+
+    .prevTable,
+    .infoTable {
+        margin: auto;
+        display: block;
+    }
+
+    .prevTable td,
+    .infoTable td {
+        display: block;
+        width: 100%;
+    }
+
+    .prevLogo img,
+    .infoIcon img {
+        max-width: 550px;
+    }
+
+    .prevText,
+    .infoIext {
+        padding-top: 60px;
+        padding-left: 0;
+        font-size: 45px;
+        line-height: 48px;
+    }
+
+    .prevBtn a,
+    .ingrTitle,
+    .actTitle,
+    .constrBtn a {
+        font-size: 50px;
+    }
+
+    /* универсальное */
+    .title {
+        font-size: 60px;
+        padding: 60px 0;
+    }
+
+    .constructor,
+    .search,
+    .recipe,
+    .info {
+        min-height: calc(100vh - 202px - 160px);
+    }
+
+    /* меню */
+    .menu {
+        padding: 65px 0;
+    }
+
+    .menuLogo {
+        width: 100%;
+        padding: 0 60px;
+        font-size: 35px;
+        font-weight: 600;
+    }
+
+    /* выпадающее меню */
+    .dropBtn {
+        float: right;
+        margin: auto 60px;
+        border: none;
+        background: none;
+    }
+
+    .dropIcon {
+        display: inline-block;
+        vertical-align: middle;
+        width: 70px;
+        height: 70px;
+    }
+
+    .dropdown {
+        position: relative;
+    }
+
+    .dropMenu {
+        position: absolute;
+        background-color: #A7C81C;
+        overflow: auto;
+        right: 0;
+        top: 70px;
+        z-index: 1;
+        text-align: center;
+    }
+
+    .dropMenu ul>li>a {
+        display: block;
+        font-size: 45px;
+        padding: 60px;
+    }
+
+    /* footer */
+    footer {
+        height: 80px;
+        padding: 40px 0;
+    }
+
+    .copyright {
+        font-size: 35px;
+    }
+
+    .socialBtn {
+        margin-left: 40px;
+        width: 65px;
+        height: 65px;
+    }
+
+    /* constructor */
+    .constrForm {
+        padding: 60px 0;
+    }
+
+    .constrForm table {
+        font-size: 40px;
+    }
+
+    .constrForm table tr {
+        display: block;
+    }
+
+    .labelTitle {
+        width: 100%;
+        font-weight: 500;
+        padding-bottom: 40px;
+        font-size: 45px;
+    }
+
+    .field {
+        margin-bottom: 40px;
+        width: 100%;
+    }
+
+    .field label {
+        line-height: 60px;
+    }
+
+    input[type="radio"] {
+        transform: scale(1.8);
+        vertical-align: middle;
+        margin: -10px 0 0 0;
+    }
+
+    .constrInstruction {
+        padding: 60px 10%;
+    }
+
+    .alternativeTitle {
+        line-height: 48px;
+    }
+
+    .constrBtn {
+        margin: 40px auto;
+    }
+
+    .constrBtn a {
+        padding: 2% 5%;
+        border-radius: 30px;
+    }
+
+    /* search */
+    .search {
+        display: block;
+    }
+
+    .searchTags {
+        width: 100%;
+    }
+
+    .tagsImg {
+        width: 100%;
+        display: flex;
+        padding-bottom: 60px;
+    }
+
+    .tagsImg img {
+        width: 150px;
+    }
+
+    .searchList {
+        width: 100%;
+    }
+
+    .searchAlert {
+        width: 80%;
+        font-size: 60px;
+        padding: 60px 0;
+    }
+
+    .listTable {
+        padding-bottom: 60px;
+    }
+
+    /* recipe */
+    .recipeName {
+        font-size: 45px;
+        line-height: 43px;
+        padding-bottom: 20px;
+    }
+
+    .recipeLink {
+        font-size: 40px;
+    }
+
+    .ingrTable,
+    .actTable {
+        width: 80%;
+        margin: 60px auto;
+        font-size: 40px;
+    }
+}
+
+@media print {
+
+    /* index */
+    .mainTitle {
+        font-size: 50px;
+        padding: 60px 0;
+    }
+
+    .prevTable,
+    .infoTable {
+        width: 90%;
+        margin: auto;
+    }
+
+    .prevTable td,
+    .infoTable td {
+        width: 100%;
+    }
+
+    .prevLogo img,
+    .infoIcon img {
+        max-width: 300px;
+    }
+
+    .prevText,
+    .infoIext {
+        font-size: 25px;
+        line-height: 28px;
+    }
+
+    .prevText p {
+        margin-bottom: 5px;
+        max-width: 100%;
+    }
+
+    .prevBtn {
+        margin-top: 60px;
+    }
+
+    .prevBtn a {
+        font-size: 30px;
+    }
+
+    /* меню */
+    header {
+        display: none;
+    }
+
+    /* footer */
+    .copyright {
+        padding-right: 20px;
+        font-size: 20px;
+    }
+
+    /* универсальное */
+    .title {
+        font-size: 33px;
+        padding: 30px 0;
+    }
+
+    /* constructor */
+    .constrForm table {
+        font-size: 25px;
+    }
+
+    .field {
+        margin-bottom: 20px;
+    }
+
+    .field label {
+        line-height: 40px;
+    }
+
+    .labelTitle {
+        font-size: 28px;
+        font-weight: 400;
+        padding-bottom: 10px;
+    }
+
+    .constrBtn {
+        margin: 30px auto;
+    }
+
+    .constrBtn a {
+        font-size: 27px;
+        margin: 30px auto;
+    }
+
+    .constrInstruction {
+        margin: 0 auto;
+        padding: 25px 10%;
+        font-size: 28px;
+        line-height: 32px;
+    }
+
+    /* search */
+    .tagsImg img {
+        height: 100px;
+        width: 100px;
+    }
+
+    #foundTitle {
+        padding-top: 0;
+        ;
+    }
+
+    .searchList {
+        width: 90%;
+    }
+
+    .searchAlert {
+        width: 90%;
+        font-size: 33px;
+        padding: 30px 0;
+    }
+
+    .listTable {
+        padding-bottom: 20px;
+    }
+
+    .recipeName {
+        font-size: 25px;
+        text-indent: -1.5em;
+        padding-bottom: 10px;
+    }
+
+    .recipeLink {
+        display: none;
+    }
+
+    /* recipe */
+    .ingrTitle,
+    .actTitle {
+        font-size: 28px;
+    }
+
+    .ingrTable,
+    .actTable {
+        width: 90%;
+        margin: 20px auto;
+        font-size: 24px;
+    }
+
+    /* information */
+    .infoTable {
+        margin-top: 40px;
+    }
+
+    .infoIext {
+        width: 70%;
+    }
+}

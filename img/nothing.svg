@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="50mm"
+   height="50mm"
+   viewBox="0 0 50 50"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="nothing.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="50mm"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="88.388348"
+     inkscape:cy="115.78874"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4999"
+       is_visible="true"
+       lpeversion="1" />
+  </defs>
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g2568"
+       transform="rotate(8.5205156,2.4232466,-69.089381)">
+      <g
+         id="g2096">
+        <g
+           id="g2146">
+          <ellipse
+             style="fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1.38989;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path2171-5"
+             cx="-27.00165"
+             cy="-34.502117"
+             rx="1.5751809"
+             ry="11.879672"
+             transform="matrix(-0.94268275,0.33369032,-0.23411932,-0.97220787,0,0)"
+             inkscape:transform-center-x="3.6696761"
+             inkscape:transform-center-y="0.91124932" />
+          <path
+             style="fill:#4d4d4d;stroke:none;stroke-width:1.35918;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 32.413479,8.0726786 c 0,0 1.013303,3.5116614 1.235024,5.3179194 0.06044,0.49235 0.173298,1.014919 0.02394,1.487945 -0.166535,0.527426 -0.513118,1.037999 -0.974571,1.342914 -0.609865,0.402981 -1.413221,0.58565 -2.137759,0.488827 C 30.010046,16.636776 29.511079,16.289286 29.09153,15.92603 28.691628,15.579785 28.372458,15.128146 28.151403,14.647582 27.390904,12.994291 26.916378,9.3296618 26.916378,9.3296618 l 0.833848,-0.5640265 0.387729,0.2846977 0.98802,4.254336 0.610789,-0.139662 -0.98802,-4.2543364 0.223059,-0.4243614 0.387729,0.2846977 0.988019,4.2543361 0.61079,-0.139661 -0.988019,-4.2543347 0.223059,-0.4243614 0.387728,0.2846949 0.98802,4.2543362 0.61079,-0.139661 -0.98802,-4.2543348 0.223058,-0.4243614 0.998519,0.1450312 v 0"
+             id="path2263"
+             sodipodi:nodetypes="caaaaaaccccccccccccccccccc" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g1940"
+       transform="translate(-0.56126601,-2.3386084)">
+      <g
+         id="g2100">
+        <g
+           id="g2104">
+          <ellipse
+             style="fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1.38989;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path2171-5-6"
+             cx="-34.773788"
+             cy="-29.970881"
+             rx="1.5751809"
+             ry="11.879672"
+             transform="matrix(-0.99975722,-0.02203418,0.12560628,-0.99208017,0,0)"
+             inkscape:transform-center-x="3.7438197"
+             inkscape:transform-center-y="-0.52981949" />
+          <path
+             style="fill:#4d4d4d;stroke:none;stroke-width:0.284301;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 30.286781,26.264109 2.656457,-15.956845 c 0,0 1.178618,0.895732 1.620853,1.478024 0.742587,0.977766 1.313919,2.110026 1.660312,3.287937 0.330344,1.123337 0.413045,2.32362 0.366081,3.49358 -0.04433,1.104447 -0.235086,2.219403 -0.608812,3.259642 -0.383658,1.067884 -0.917655,2.110043 -1.647455,2.978929 -0.3529,0.420156 -1.281268,1.033433 -1.281268,1.033433 l -0.169269,0.790355 z"
+             id="path1660"
+             sodipodi:nodetypes="ccaaaaaccc" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

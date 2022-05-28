@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Рецепт</title>
+    <link rel="icon" href="../img/icon.svg" type="image/svg">
+    <link rel="stylesheet" href="../css/reset.css" type="text/css" />
+    <link rel="stylesheet" href="../css/style.css" type="text/css" />
+</head>
+
+<body>
+    <div class="wrapper">
+        <div class="content">
+            <header>
+                <h1 class="unseen">Страница рецепта</h1>
+    
+                <div class="menu">
+                    <nav>
+                        <ul>
+                            <li>
+                                <p class="menuLogo">SimpleSatiety^</p>
+                            </li>
+                            <li class="horizontalMenu"><a class="mainPage" href="constructor.html">Главная</a></li>
+                            <li class="horizontalMenu"><a class="searchPage" href="search.html">Поиск</a></li>
+                            <li class="horizontalMenu"><a class="aboutPage" href="information.html">О сайте</a></li>
+                            <li class="horizontalMenu"><a class="exitPage" href="../index.html">Выход</a></li>
+
+                            <div class="dropdown unseen">
+                                <button class="dropBtn">
+                                    <img class="dropIcon" src="../img/menu.svg" alt="menu">
+                                </button>
+                                    <div class="dropMenu unseen">
+                                        <ul class="dropContent">
+                                            <li><a class="mainPage" href="constructor.html">Главная</a></li>
+                                            <li><a class="searchPage" href="search.html">Поиск</a></li>
+                                            <li><a class="aboutPage" href="information.html">О сайте</a></li>
+                                            <li><a class="exitPage" href="../index.html">Выход</a></li>
+                                        </ul>
+                                    </div>
+                            </div>
+                        </ul>
+                    </nav>
+                </div>
+            </header>
+    
+            <section class="recipe">
+                <div class="recipeTitle">
+                    <h1 class="title"></h1>
+                </div>
+    
+                <div class="recipeWrapper">
+                    <div class="recipeIngredients">
+                        <h3 class="ingrTitle">Ингредиенты:</h3>
+                        <table class="ingrTable">
+        
+                        </table>
+                    </div>
+        
+                    <div class="recipeActions">
+                        <h3 class="actTitle">Пошаговый рецепт:</h3>
+                        <table class="actTable">
+        
+                        </table>
+                    </div>
+                </div>
+            </section>
+        </div>
+    
+        <footer>
+            <div class="copyright">
+                <p>2022 г. Москва, SimpleSatiety&#169;</p>
+            </div>
+    
+            <div class="social">
+                <a href="https://vk.com/alchy_zaljer" class="socialBtn socialBtnVk">Вконтакте</a>
+                <a href="https://www.facebook.com/profile.php?id=100012548315024" class="socialBtn socialBtnFb">Фейсбук</a>
+                <a href="https://www.instagram.com/alchy_zaljer/" class="socialBtn socialBtnIg">Инстаграм</a>
+            </div>
+        </footer>
+    </div>
+
+    <script src="../js/recipeCollection.js"></script>
+    <script src="../js/recipe.js"></script>
+    <script src="../js/menu.js"></script>
+
+</body>
+
+</html>
