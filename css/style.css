@@ -602,7 +602,15 @@ footer {
 
 @media print {
 
+    header {
+        display: none;
+    }
+
     /* index */
+    .indexHeader {
+        display: block;
+    }
+    
     .mainTitle {
         font-size: 50px;
         padding: 60px 0;
@@ -641,11 +649,6 @@ footer {
 
     .prevBtn a {
         font-size: 30px;
-    }
-
-    /* меню */
-    header {
-        display: none;
     }
 
     /* footer */
