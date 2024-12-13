@@ -1,4 +1,4 @@
-# SimpleSatiety
+# simple-satiety
 
 ### Кулинарный сайт-агрегатор
 
